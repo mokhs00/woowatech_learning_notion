@@ -13,7 +13,10 @@
 
 ## 구성
 
-- CRA(Create React App)로 프로젝트 생성
+- ~~CRA(Create React App)로 프로젝트 생성~~
+- webpack으로 프로젝트 구성
+
+- React, TypeScript
 
 - BackEnd
 
